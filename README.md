@@ -7,7 +7,7 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a full-sta
 - :blue_book: In Progress: Node.js / Express
 - :date: Upcoming: Computer Science
 - :construction: Currently Working On: My Porfolio
-- :e-mail: Feel free to email me at jonathan.portillo93@live.com. You can also find me at my [LinkedIn](https://www.linkedin.com/in/jonathanportillo93/)
+- :e-mail: Feel free to email me at jonathan.portillo93@live.com. You can also find me on my [LinkedIn](https://www.linkedin.com/in/jonathanportillo93/) account.
 
 
 
