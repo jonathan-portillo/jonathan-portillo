@@ -9,4 +9,4 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a full-sta
 
 
 
-![redux_log](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png)
+![redux_log](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png =50x50)
