@@ -1,8 +1,8 @@
-# Welcome to my Github ::wave::!!
+# Welcome to my Github :wave:!!
 
 My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a full-stack developer looking to expand my software knowledge.
 - I am currently a student at Lambda School
-  - Completed 
+  - :white_check_mark: Completed 
 -
 -
 -
