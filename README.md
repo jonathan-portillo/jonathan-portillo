@@ -11,4 +11,5 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a full-sta
 
 
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50">
+
 <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" width="50>
