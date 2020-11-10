@@ -10,4 +10,4 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a full-sta
 
 
 
-<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50"><img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="40"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50">
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="55"><img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="40"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50">
