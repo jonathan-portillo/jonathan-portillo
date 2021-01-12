@@ -3,7 +3,7 @@
 My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a full-stack developer looking to expand my software knowledge.
 
 - :school_satchel: I am currently a student at Lambda School. 
-- :white_check_mark: Completed: :heavy_check_mark:HTML :heavy_check_mark:CSS :heavy_check_mark:JavaScript :heavy_check_mark:React :heavy_check_mark:Redux :heacy_check_mark: Nodejs/Express
+- :white_check_mark: Completed: :heavy_check_mark:HTML :heavy_check_mark:CSS :heavy_check_mark:JavaScript :heavy_check_mark:React :heavy_check_mark:Redux :heavy_check_mark: Nodejs/Express
 - :blue_book: In Progress: Computer Science/Python
 - :date: Upcoming: More Computer Science
 - :construction: Currently Working On: My Porfolio
