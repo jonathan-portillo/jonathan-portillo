@@ -7,8 +7,7 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a Full Sta
 - :blue_book: In Progress: Computer Science/Python
 - :date: Upcoming: More Computer Science
 - :construction: Currently Working On: My Porfolio
-- :e-mail: Feel free to email me at jonathan.portillo93@live.com. You can also find me on my [LinkedIn](https://www.linkedin.com/in/jonathanportillo93/) account. Also take a look at my [website](https://jonyprt.com) (currently still being worked on so there isn't much just yet) 
-
+- :e-mail: Feel free to email me at jonathan.portillo93@live.com. You can also find me on my [LinkedIn](https://www.linkedin.com/in/jonathanportillo93/) account.
 
 
 
