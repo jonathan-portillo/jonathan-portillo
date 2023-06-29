@@ -6,7 +6,7 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a Full Sta
 - :white_check_mark: Completed: :heavy_check_mark:HTML :heavy_check_mark:CSS :heavy_check_mark:JavaScript :heavy_check_mark:React :heavy_check_mark:Redux :heavy_check_mark: Nodejs/Express :heavy_check_mark:Computer Science :heavy_check_mark:Endorsement 
 - :blue_book: In Progress: Working on algorithms. 
 - :date: Upcoming: A Software Engineer role
-- :construction: Currently Working On: My Porfolio
+- :construction: Currently Working On: Personal Projects
 - :e-mail: Feel free to email me at jonport93@gmail.com. You can also find me on my [LinkedIn](https://www.linkedin.com/in/jonathanportillo93/) account.
 
 
