@@ -4,10 +4,11 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a Full Sta
 
 - :school_satchel: I am a Lambda School Grad (Now Known as BloomTech) currently seeking a position in Software Development.  
 - :white_check_mark: Completed: :heavy_check_mark:HTML :heavy_check_mark:CSS :heavy_check_mark:JavaScript :heavy_check_mark:React :heavy_check_mark:Redux :heavy_check_mark: Nodejs/Express :heavy_check_mark:Computer Science :heavy_check_mark:Endorsement 
-- :blue_book: In Progress: Working on algorithms. 
+- :blue_book: In Progress: Job Hunting  
 - :date: Upcoming: A Software Engineer role
 - :construction: Currently Working On: Personal Projects
-- :e-mail: Feel free to email me at jonport93@gmail.com. You can also find me on my [LinkedIn](https://www.linkedin.com/in/jonathanportillo93/) account.
+- :e-mail: Feel free to email me at jonport93@gmail.com as take a look at my Portfolio[jonathanportillo.dev]. You can also find me on my [LinkedIn](https://www.linkedin.com/in/jonathanportillo93/) account.
+
 
 
 
