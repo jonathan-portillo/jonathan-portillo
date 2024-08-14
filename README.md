@@ -14,5 +14,5 @@ My name is Jonathan Portillo. I'm a native Afro-Latino New Yorker and a Full Sta
 
 <h5><p align="center">Technologies I've worked with</p></h5>
 <p align="center"><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="58"> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="40"> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="50"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" width="50"> 
-<img src="https://nodejs.org/static/logos/nodejsDark.svg" width="70" height="50"></p> 
+<img src="https://nodejs.org/static/logos/nodejsDark.svg" width="70" height="70"></p> 
 
